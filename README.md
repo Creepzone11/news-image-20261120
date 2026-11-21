@@ -34,3 +34,9 @@ Node 22, standard library only. Run main.ts with MAKEFUN_OUTPUT_DIR
 set to a fresh directory and it places a byte-identical copy of
 entry.png there; the image is 1024 by 1024 pixels and under the
 1 MiB limit.
+
+[![make.fun · news-image-20261120](https://make.fun/badge/news-image-20261120.svg)](https://make.fun/bounty/news-image-20261120?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
+[![rank](https://make.fun/badge/news-image-20261120/Creepzone11/news-image-20261120/rank.svg)](https://make.fun/bounty/news-image-20261120/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
+[![reward](https://make.fun/badge/news-image-20261120/Creepzone11/news-image-20261120/reward.svg)](https://make.fun/bounty/news-image-20261120?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
+
+See the bounty: https://make.fun/bounty/news-image-20261120
